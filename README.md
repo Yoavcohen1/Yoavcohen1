@@ -1,5 +1,5 @@
 👋 Hello, I'm Yoav!
-I am a 17-year-old developer with a deep passion for coding that began at a very young age. My expertise lies in designing and implementing software solutions, leveraging emerging technologies, and continuously refining my skill set.
+I am a 18-year-old developer with a deep passion for coding that began at a very young age. My expertise lies in designing and implementing software solutions, leveraging emerging technologies, and continuously refining my skill set.
 
 💡 Self-Taught and Driven to Excel:
 While my school curriculum focuses solely on Java, I continuously strive to go beyond its scope and broaden my knowledge independently. I have a significant advantage in being able to learn new programming languages and technologies on my own. This drive has been a defining characteristic of mine since childhood, as I find immense satisfaction in pushing my limits and exploring new challenges.
