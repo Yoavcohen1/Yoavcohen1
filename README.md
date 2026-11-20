@@ -1,70 +1,66 @@
 # Yoav Cohen
 
-**Software Developer | Automation & API Integration | AI & Electronics Enthusiast**
+**Software Developer | Automation & API Integration | Electronics & AI**
 
-I'm 19 and a developer and entrepreneur from Israel. I started programming when I was young, mostly because I was curious about how things worked and wanted to build things of my own. That curiosity has stayed with me. Today, I enjoy working across software development, automation, data, and electronics, and I'm always looking for new ways to connect them.
+I'm a software developer and entrepreneur based in Israel. I'm 19, and I've been programming since childhood. What began as curiosity about how technology works has grown into an interest in building software, connecting systems, and understanding the engineering behind them.
 
-I like being involved in the full process of building something, from figuring out what a system needs to do, to writing the code, integrating services, and improving the details that make it useful. Some of my interests have taken me beyond traditional software into microcontrollers, sensors, and small computing devices. Others have led me toward AI, financial technology, and tools that make everyday processes easier.
+My experience spans Android and web development, cloud services, automation, and data analysis. I'm also interested in electronics and embedded computing. I enjoy problems that bring several of these areas together, especially when they require a solution that is both technically sound and practical to use.
 
 ## Background & Education
 
-I completed an expanded academic curriculum as part of my Israeli high school studies:
+I completed an expanded Israeli high school matriculation curriculum (Bagrut):
 
-- **Computer Science:** 10 Bagrut units
-- **Physics:** 5 Bagrut units
-- **Mathematics:** 5 Bagrut units
-- **English:** 5 Bagrut units
+- **Computer Science:** 10 units
+- **Physics:** 5 units
+- **Mathematics:** 5 units
+- **English:** 5 units
 
-Computer science gave me a foundation in Java, including classes, objects, and core programming principles. Physics strengthened my interest in mathematics, electricity, and understanding the principles behind technical systems.
-
-Most of my learning has also happened outside the classroom. When something interests me, I like to research it, try it myself, and keep working on it until I understand how the different parts fit together.
+Studying computer science alongside physics and mathematics strengthened my analytical reasoning and approach to technical problems. Much of my development experience also comes from learning independently, researching unfamiliar technologies, and applying what I learn in practice.
 
 ## Software Development
 
-My programming experience includes **Python, Java, C#, and JavaScript**, with work across Android applications, web development, and software utilities.
+I work with **Python, Java, C#, and JavaScript** across mobile applications, web development, and software tools.
 
-In Android development, I've worked with Java, the Android SDK, Firebase Authentication, and Cloud Firestore. I've explored application features such as account management, persistent data, interactive interfaces, financial market information, and integrations with external APIs. These experiences have helped me think about applications as complete systems rather than separate screens.
+My Android development experience includes Java, the Android SDK, Firebase Authentication, Cloud Firestore, and integrations with external APIs. I have worked with application features involving user accounts, persistent data, interactive interfaces, and financial market information.
 
-For web development, I use **HTML, CSS, and JavaScript** to create interactive interfaces and tools that run in a browser. I care about the experience of using a product as much as the code behind it. A useful feature should also be easy to understand.
+For web development, I use **HTML, CSS, and JavaScript**, and I have experience with Shopify Liquid. I pay attention to the structure behind an application as well as its interface: how data is managed, how different components interact, and whether the result is straightforward to use.
 
 ## Electronics & Engineering
 
-My technical knowledge extends to embedded systems, microcontrollers, and hardware integration, with hands-on experience using ESP32 and Raspberry Pi. I am familiar with GPIO interfaces, electronic components, sensors, displays, and the communication between hardware and software. I also have experience using the Arduino IDE for microcontroller programming.
+I have hands-on experience with **ESP32 and Raspberry Pi**, including microcontroller programming, GPIO, sensors, and display integration. I've also used the **Arduino IDE** as a development environment for microcontrollers.
 
-I have a strong analytical approach to technical challenges, combining mathematical reasoning, physical principles, and creative problem-solving. I'm particularly interested in understanding systems at a fundamental level, identifying efficient solutions, and applying engineering knowledge to develop reliable and practical technologies.
+My interest in physics influences how I approach hardware and software together. I focus on understanding how systems work, evaluating technical constraints, and using mathematical reasoning and creative problem-solving to find effective solutions.
 
 ## Automation, APIs & Cloud Services
 
-I have experience working with **Make, Zapier, n8n, WATI, Airtable, and Firebase**, as well as integrating services through REST APIs and JSON.
+I work with **Make, Zapier, n8n, WATI, Airtable, and Firebase**, using APIs to connect applications and manage the flow of data between services.
 
-Automation became particularly relevant through my online business. It showed me how much time can be saved by connecting systems properly, whether that's moving information between platforms, organizing business data, or improving customer communication.
-
-When working on an integration, I try to understand the whole process: where the information comes from, what needs to happen to it, and what the person using the system actually needs at the end.
+Through my online business, I've gained practical experience with automation for customer communication, business information, and day-to-day operations. I approach integrations by looking at the entire workflow, from the source of the data to the outcome it needs to support.
 
 ## Data & Artificial Intelligence
 
-I'm interested in practical applications of AI and in the technical ideas behind them. With **Python**, I've worked on data preparation, visualization, and experiments with machine learning using tools such as pandas, NumPy, and scikit-learn.
+I use **Python** for data preparation, analysis, visualization, and machine learning experiments, including work with pandas, NumPy, and scikit-learn.
 
-I also enjoy exploring how AI services can become part of an existing application or device. I'm particularly interested in the point where a useful idea meets the engineering details needed to make it work reliably.
+I'm interested in practical AI applications, particularly how AI services can be integrated into existing software and devices. I enjoy exploring both what a technology can do and the engineering considerations involved in using it effectively.
 
 ## Entrepreneurship & Personal Approach
 
-Alongside programming, I founded and manage an online business. That experience has taught me about digital marketing, online sales, customer communication, and the operational side of running a product. It has also changed how I approach development: I think not only about whether something can be built, but why someone would want to use it.
+I founded and manage an online business, which has given me experience in digital marketing, online sales, customer communication, and business operations. It has also influenced the way I develop software: I consider not only how a feature works, but whether it solves a meaningful problem for the person using it.
 
-I'm naturally curious and enjoy learning independently. I like **thinking outside the box, questioning conventional approaches, and finding creative solutions to practical problems**. I especially enjoy challenges that cross different fields and involve a mix of software, logical reasoning, and experimentation. I don't expect every idea to work on the first attempt. For me, understanding what went wrong and finding a better approach is part of what makes building things interesting.
+I'm an independent learner who enjoys thinking beyond the first obvious solution. I prefer to understand a problem, consider different approaches, and learn from testing and refining them.
 
 ## Technical Toolkit
 
 | Area | Technologies & Tools |
 | --- | --- |
 | **Programming** | Python, Java, C#, JavaScript |
-| **Mobile development** | Android SDK, Java, XML layouts |
+| **Mobile development** | Java, Android SDK |
 | **Web development** | HTML, CSS, JavaScript, Shopify Liquid |
-| **Cloud & databases** | Firebase Authentication, Cloud Firestore, Firebase Realtime Database, Airtable |
-| **APIs & integrations** | REST APIs, JSON, external data and AI services |
+| **Cloud & data** | Firebase Authentication, Cloud Firestore, Firebase Realtime Database, Airtable |
+| **APIs & integration** | REST APIs, JSON, external data and AI services |
 | **Automation** | Make, Zapier, n8n, WATI |
 | **Data & machine learning** | pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly |
-| **Electronics & prototyping** | ESP32, Raspberry Pi, sensors, GPIO, SPI displays, Arduino IDE |
+| **Electronics** | ESP32, Raspberry Pi, GPIO, Arduino IDE |
 | **Development tools** | Git, GitHub, Android Studio |
 
 ## Languages
