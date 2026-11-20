@@ -1,6 +1,6 @@
-# Hi, I'm Yoav 👋
+# Yoav Cohen | Software Developer
 
-**Software Developer | Automation & API Integration | AI & Electronics Enthusiast**
+**Software Developer | Automation & API Integration | AI & Electronics**
 
 I'm a 19-year-old developer and entrepreneur from Israel. I started programming when I was young, mostly because I was curious about how things worked and wanted to build things of my own. That curiosity has stayed with me. Today, I enjoy working across software development, automation, data, and electronics, and I'm always looking for new ways to connect them.
 
