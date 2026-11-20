@@ -29,11 +29,9 @@ For web development, I use **HTML, CSS, and JavaScript** to create interactive i
 
 ## Electronics & Engineering
 
-I have a strong interest in the intersection of programming, electronics, and physics. I've experimented with **ESP32 and Raspberry Pi**, connecting components such as sensors and displays and exploring how software interacts with physical hardware. I've also used the **Arduino IDE** for microcontroller development.
+My technical knowledge extends to embedded systems, microcontrollers, and hardware integration, with hands-on experience using ESP32 and Raspberry Pi. I am familiar with GPIO interfaces, electronic components, sensors, displays, and the communication between hardware and software. I also have experience using the Arduino IDE for microcontroller programming.
 
-What I find especially interesting is designing around practical constraints: limited space, available power, hardware inputs, connectivity, and cost. I've explored ideas such as adding intelligent features to a compact calculator, using physical buttons to control custom interfaces, and building devices that can operate without a constant internet connection.
-
-I don't see hardware and software as separate interests. I enjoy the challenge of making them work together.
+I have a strong analytical approach to technical challenges, combining mathematical reasoning, physical principles, and creative problem-solving. I'm particularly interested in understanding systems at a fundamental level, identifying efficient solutions, and applying engineering knowledge to develop reliable and practical technologies.
 
 ## Automation, APIs & Cloud Services
 
